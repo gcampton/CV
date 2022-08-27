@@ -1,0 +1,71 @@
+body {
+    background-color:#1e2020; 
+    color: #dce8f0;
+    margin: 0;
+    text-align: center;
+    font-family: Montserrat;
+}
+a :hover {
+    color: #353535;
+}
+a :visited {
+    color: #88badb;
+}
+a {
+    color: #3282B8;
+}
+hr {
+    width: 5%;
+    border: 10px dotted;
+    border-style: none none dotted;
+    color: #353535;
+}
+h1 {
+    color: #3282B8;
+    font-family: Waiting for the Sunrise;
+    font-size: 5rem;
+}
+
+h2 {
+    font-family: Waiting for the Sunrise;
+    color: #3282B8;
+    font-size: 3rem;
+}
+
+h3 {
+    font-family: Waiting for the Sunrise;
+    color: #3282B8;
+    font-size: 3rem;
+}
+
+.hero-image {
+    background-image: url(../images/tree.jpg); 
+    background-color: #000; 
+    height: 1080px; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    background-attachment: fixed;
+}
+
+.hero-text {
+    text-align: right;
+    padding-right: 20em;
+    padding-top: 20em;
+}
+
+.hero-text h2 {
+    color: #353535;
+    font-family: Alumni Sans Pinstripe;
+    font-size: 2em;
+}
+
+.hero-text h1 {
+    color: #353535;
+    font-family: Waiting for the Sunrise;
+    font-size: 78px;
+}
+
+.middle-container {
+    margin-top: 100px;
+}
