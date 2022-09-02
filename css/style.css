@@ -21,8 +21,7 @@ hr {
     border: 10px dotted;
     border-style: none none dotted;
     color: #353535;
-    margin-top: 40px;
-    margin-bottom: 40px;
+    margin: 40px auto;
 }
 h1 {
     color: #3282B8;
@@ -55,7 +54,7 @@ h3 {
 
 .hero-text {
     text-align: right;
-    padding-right: 20em;
+    margin-right: 15%;
     padding-top: 20em;
 }
 
@@ -148,4 +147,8 @@ h3 {
 
 .table-date {
     padding-right: 20px;
+}
+
+.work-table {
+    font-size: 0.7em;
 }
